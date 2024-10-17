@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ExpressJS,ReactJS**
 
-- 💬 Ask me about **NLP,MERN stack,Finetuning LLMs,**
+- 💬 Ask me about **NLP,MERN stack,Finetuning LLMs**
 
 - 📫 How to reach me **issam.haouari@ensi-uma.tn**
 
