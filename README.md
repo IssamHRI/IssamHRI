@@ -1,7 +1,7 @@
-[ ! [MasterHead] (https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s16€
+<img align="right" alt="Coding" width="400" src=""C:\Users\issam\Downloads\Issam Haouari.png"">
 <h1 align="center">Hi 👋, I'm Issam Haouari.</h1>
 <h3 align="center">A versatile engineer with a strong background in Natural Language Processing (NLP) and Artificial Intelligence. I'm passionate about solving complex problems and constantly expanding my skill set. Currently, I'm diving into web development, adding another layer of versatility to my expertise. I thrive on learning and adapting to new challenges, and I'm always motivated to grow as both an engineer and a collaborator. Check out my repositories, and feel free to connect if you'd like to collaborate on exciting projects!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 I’m currently working on **Linkedin clone project**
 
